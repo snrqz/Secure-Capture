@@ -1,6 +1,8 @@
 # Secure Capture 
 
-This project allows clients to capture and transfer screenshots to a server. The server can handle normal screenshots. It also provides commands to control the server and client operations.
+This project allows you to capture and transfer screenshots between a client and a server.
+The client can send either normal or encrypted screenshots to the server. 
+The application is designed to work on UNIX-based operating systems such as macOS and Linux due to its reliance on system commands.
 
 ## Overview
 
